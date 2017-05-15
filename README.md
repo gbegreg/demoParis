@@ -6,7 +6,7 @@ The project was made with Delphi Tokyo Pro with mobile plugin and it works with 
 
 Grégory Bersegeay : http://www.gbesoft.fr
 
-<img src="https://github.com/gbegreg/demoParis/blob/master/capture.jpg">
+<img src="https://github.com/gbegreg/demoParis/blob/master/capture.png">
 
 
 <u>History :</u><br>
