@@ -4,6 +4,11 @@ This demonstration was realized for the french stage of the European Tour Delphi
 
 The project was made with Delphi Tokyo Pro with mobile plugin and it works with Delphi Berlin. You can compile and deploy it on Windows, Mac OS, Android and IOS.
 
+See my other games with Delphi and Firmaonkey :<br>
+https://github.com/gbegreg/FMXCorridor<br>
+https://github.com/gbegreg/FMXPong
+
+
 Grégory Bersegeay : http://www.gbesoft.fr
 
 <img src="https://github.com/gbegreg/demoParis/blob/master/capture.png">
