@@ -6,8 +6,9 @@ The project was made with Delphi Tokyo Pro with mobile plugin and it works with 
 
 See my other games with Delphi and Firmaonkey :<br>
 https://github.com/gbegreg/FMXCorridor<br>
-https://github.com/gbegreg/FMXPong
-
+https://github.com/gbegreg/FMXPong<br>
+A small open 3D world :
+https://github.com/gbegreg/FMXISland
 
 Grégory Bersegeay : http://www.gbesoft.fr
 
