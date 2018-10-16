@@ -4,7 +4,7 @@ This demonstration was realized for the french stage of the European Tour Delphi
 
 The project was made with Delphi Tokyo Pro with mobile plugin and it works with Delphi Berlin. You can compile and deploy it on Windows, Mac OS, Android and IOS.
 
-See my other games with Delphi and Firmaonkey :<br>
+See my other games with Delphi and Firemonkey :<br>
 https://github.com/gbegreg/FMXCorridor<br>
 https://github.com/gbegreg/FMXPong<br>
 A small open 3D world :
